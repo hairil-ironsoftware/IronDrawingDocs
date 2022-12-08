@@ -1,0 +1,8 @@
+# Get number of frames in AnyBitmap
+
+This feature enable users to get the number of frames inside a multipage GIF or TIFF files easily. 
+
+The multipage file to be read can be converted to AnyBitmap type using the file path and get the frame count saved to a variable using <code>AnyBitmap.FromFile(@"FILE_PATH").FrameCount</code> method. 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTE5ODA1MjY0Ml19
+-->

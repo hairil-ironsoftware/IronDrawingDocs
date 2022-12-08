@@ -1,0 +1,16 @@
+# Export AnyBitmap
+AnyBitmap file generated from IronDrawing tool can be exported to other image formats with the ability to specify the degree of loss in the exported image. This enable users to balance the quality of the image needed with the size of the image file exported.
+
+To export AnyBitmap file to other image formats, simply load AnyBitmap file and use <code>.ExportFile()</code> method. This method has 3 overloads, which are the **exported file name**, **Image format**, and **Image loss**. The exported image can be in format:
+* Bmp
+* Gif
+* Png
+* Jpeg
+* Tiff
+* Webp
+* Wbmp
+* Wmf
+* Icon
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwNDgwMTM0MTRdfQ==
+-->

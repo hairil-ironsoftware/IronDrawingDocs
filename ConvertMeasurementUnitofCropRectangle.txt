@@ -1,0 +1,9 @@
+# Convert Measurement Unit of Crop Rectangle
+IronDrawing provides option for users who wants to change the measurement unit used in CropRectangle from pixels (px) to milimeters (mm) or vice versa. Default measurement unit used in CropRectangle is pixels (px). 
+
+After a new CropRectangle with measurements specified has been instantiated, call the conversion method to the CropRectangle. For example <code>.ConvertTo(MeasurementUnits.Millimeters, 20)</code>. This will convert the measurement sof the CropRectangle to millimeters based on the DPI set by users.
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTgxMTcyNTA4NCwtMTE2NTI3NjMwNywtMT
+U2NDM1NzQyNCwxNzQ0MTEyNzhdfQ==
+-->
