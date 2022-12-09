@@ -47,18 +47,20 @@
 
 
 # Color Example
+A universally compatible Color class.
 - ## Create color ( [Code Example](https://ironsoftware.com/open-source/csharp/drawing/examples/color-example/) )
 	- Create color from:
 		- Hexadecimal value
 		- ARGB value
 		- Colors available
 	-  Color casting
-		- Cast color from **System.Drawing.Color** to **IronSoftware.Drawing.Color**.
+		- Cast color from **System.Drawing.Color** to **IronSoftware.Drawing.Color** and other platforms.
 - ## Convert Color ( [Code Example](https://ironsoftware.com/open-source/csharp/drawing/examples/color-example/) )
 	- Convert color to 32-bit ARGB value
 - ## Get color depth ( [Code Example](https://ironsoftware.com/open-source/csharp/drawing/examples/color-example/) )
 	- Analyze quality of an image by looking at the color depth of the image fed into IronDrawing.
 # CropRectangle example
+A universally compatible Rectangle class.
 - ## Create and cast CropRectangle ( [Code Example](https://ironsoftware.com/open-source/csharp/drawing/examples/croprectangle-example/) )
 	- Create an IronSoftware.Drawing CropRectangle
 	- Cast a **System.Drawing.Rectangle** to **IronSoftware.Drawing.CropRectangle**.
@@ -67,9 +69,10 @@
 	- Convert CropRectangle measurement from pixels(px) to millimeter(mm) or vice versa.
 
 # Font example
+A universally compatible Font class.
 - ## Create and cast fonts ( [Code Example](https://ironsoftware.com/open-source/csharp/drawing/examples/font-example/) )
 	- Create IronDrawing fonts with options to choose and control font family, font style, and font size.
-	- Casting a **System.Drawing.Font** to **IronSoftware.Drawing.Font**.
+	- Casting a **System.Drawing.Font** to **IronSoftware.Drawing.Font** and other platforms.
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTEwMzI3NDkxNywtMjA3MjUyOTE2NCwtMj
 cyOTk3OTEsLTE5MDU4MzQ4MDYsLTE2NDkzODAzMzMsLTE1NzQ0
